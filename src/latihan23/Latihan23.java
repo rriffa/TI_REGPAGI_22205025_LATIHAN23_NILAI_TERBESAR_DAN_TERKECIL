@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Menampilakn Program nilai terbesar dan terkecil yang inputannya berasal dari user.
  */
 public class Latihan23 {
 
